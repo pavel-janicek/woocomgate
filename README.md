@@ -9,4 +9,4 @@ Stáhnout aktuální kód v záložce Releases jako .zip soubor a nahrát ve Wor
 
 ## Zřeknutí se odpovědnosti a podpora
 
-Autor pluginu neručí za správnost předávaných dat do fakturačního systému, ani za jakékoliv škody způsobené tímto pluginem. Podpora pluginu je komunitní, jakékoliv chyby hlašte přes záložku Issues
+Autor pluginu neručí za správnost a funkčnost pluginu, ani za jakékoliv škody způsobené tímto pluginem. Podpora pluginu je komunitní, jakékoliv chyby hlašte přes záložku Issues
