@@ -1,9 +1,9 @@
-#Propojení WooCommerce a platební brány Comgate
+# Propojení WooCommerce a platební brány Comgate
 - Umožní zákazníkům platit kartou přes platební bránu Comgate
 - Automaticky aktualizuje stav platby po návratu z platební brány
 - Automaticky přesměruje na stránku se souhrnem platby
 
-##Instalace
+## Instalace
 
 Stáhnout aktuální kód v záložce Releases jako .zip soubor a nahrát ve Wordpressu jako Plugin Předpokládá se nainstalovaný plugin WooCommerce
 
